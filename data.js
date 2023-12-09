@@ -1,4 +1,4 @@
-let postalCodes = [
+[
     {zipCode:78613},
     {zipCode:78617},
     {zipCode:78620},
